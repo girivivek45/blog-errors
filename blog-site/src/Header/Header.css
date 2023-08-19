@@ -16,13 +16,13 @@
  }
  .headerlg{
     position: absolute;
-    top: 22%;
+    top: 20%;
     font-size: 100px;
 
  }
  .headerImg{
     width: 100%;
-    height: 500px;
-    margin-top: 100px;
-    object-fit: fit;
+    height: 450px;
+    margin-top: 80px;
+    object-fit: cover;
  }
