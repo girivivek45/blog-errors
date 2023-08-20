@@ -1,5 +1,8 @@
 .sidebar{
     flex: 3;
+    height: fit-content;
+    margin: 20px;
+    padding-bottom: 30px;
     background-color: #fdfbfb;
     border-radius: 10px;
     display: flex;
@@ -8,6 +11,7 @@
 }
 .sidebarImg{
     border-radius: 50%;
+    margin-top: 15px;
     height: 200px;
     width: 200px;
 }
@@ -15,7 +19,7 @@
     display: flex;
     flex-direction: column;
     align-items: center;
-    padding: 30px;
+    
     
 }
 .sidebarTitle{
@@ -24,6 +28,12 @@
     width: 80%;
     border-top: 1px solid #a7a4a4;
     border-bottom: 1px solid #a7a4a4;
+    text-align: center;
+    font-family: "Varela Round", sans-serif;
+    font-size: 12px;
+    line-height: 19px;
+    color: #222222;
+    font-weight: 600;
 }
 .sidebaricon{
     font-size: 16px;
@@ -44,4 +54,6 @@
 .sidebarListItem{
     display: inline-block;
     width: 50%;
+    margin-top: 15px;
+    cursor: pointer;
 }
