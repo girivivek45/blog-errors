@@ -4,12 +4,13 @@ import Navbar from './Navbar/Navbar';
 import Home from './Pages/Home/Home';
 import Single from './Pages/Single/Single';
 import Write from './Pages/Write/Write';
+import Settings from './Pages/Settings/Settings';
 
 function App() {
   return (
     <div className="App">
       <Navbar/>
-      <Write/>
+      <Settings/>
 
     </div>
   );
