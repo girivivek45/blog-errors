@@ -12,7 +12,7 @@ export default function Post() {
         </div>
         <span className="postTilte">DSA v DEV</span>
         <hr/>
-        <span className="postDate">1 hr ago</span>
+        <span className="postDate">2 hr ago</span>
       </div>
       <p className='postdesc'>
         Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam repellendus voluptas adipisci provident excepturi et dolorem reprehenderit. Omnis accusamus laborum, nisi est nihil doloremque nostrum veniam, cupiditate beatae ipsa maiores?
